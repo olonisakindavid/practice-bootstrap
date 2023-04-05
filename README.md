@@ -1,2 +1,2 @@
 # practice-bootstrap
-Already made css templates + javascript . Can for webdev
+Already made css templates + javascript . Aids in webdev
